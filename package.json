@@ -1,7 +1,6 @@
 {
-  "name": "site",
+  "name": "meu-primeiro-site",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "bootstrap": "^3.3.7",
@@ -20,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/arieledezan/meu-primeiro-site/issues"
   },
-  "homepage": "https://github.com/arieledezan/meu-primeiro-site#readme"
+  "homepage": "https://github.com/arieledezan/meu-primeiro-site#readme",
+  "description": ""
 }
