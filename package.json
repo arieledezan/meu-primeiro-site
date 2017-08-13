@@ -1,0 +1,24 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bower": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arieledezan/meu-primeiro-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arieledezan/meu-primeiro-site/issues"
+  },
+  "homepage": "https://github.com/arieledezan/meu-primeiro-site#readme"
+}
